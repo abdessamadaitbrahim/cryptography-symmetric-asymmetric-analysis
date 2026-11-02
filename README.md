@@ -1,11 +1,11 @@
 # Cryptography Analysis: Symmetric vs Asymmetric Systems
 
-[![Overview](https://img.shields.io/badge/Overview-16A34A?style=flat-square)](#overview)
-[![Contents](https://img.shields.io/badge/Contents-16A34A?style=flat-square)](#contents)
-[![Mind maps](https://img.shields.io/badge/Mind%20maps-16A34A?style=flat-square)](#mind-maps)
-[![Comparison](https://img.shields.io/badge/Comparison-16A34A?style=flat-square)](#asymmetric-systems-at-a-glance)
-[![Resources](https://img.shields.io/badge/Resources-16A34A?style=flat-square)](#resources)
-[![Author](https://img.shields.io/badge/Author-16A34A?style=flat-square)](#author)
+[![Overview](https://img.shields.io/badge/Overview-2563EB?style=flat-square)](#overview)
+[![Contents](https://img.shields.io/badge/Contents-2563EB?style=flat-square)](#contents)
+[![Mind maps](https://img.shields.io/badge/Mind%20maps-7C3AED?style=flat-square)](#mind-maps)
+[![Comparison](https://img.shields.io/badge/Comparison-7C3AED?style=flat-square)](#asymmetric-systems-at-a-glance)
+[![Resources](https://img.shields.io/badge/Resources-F59E0B?style=flat-square)](#resources)
+[![Author](https://img.shields.io/badge/Author-F59E0B?style=flat-square)](#author)
 
 ## Overview
 
